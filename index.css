@@ -17,7 +17,7 @@ body {
   width: auto;
 }
 
-#toy-collection {
+#toy_collection {
   margin: 2rem;
 }
 
@@ -89,7 +89,7 @@ button:hover {
 }
 
 
-.input-text {
+.input_text {
   border-radius: 5px;
   height: 2rem;
   width: 60%;
